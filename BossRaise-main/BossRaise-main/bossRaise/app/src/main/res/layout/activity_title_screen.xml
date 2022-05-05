@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animationCache="false"
+    android:background="#5FC7D5"
+    tools:context=".TitleScreen">
+
+    <TextView
+        android:id="@+id/startTitle"
+        android:layout_width="368dp"
+        android:layout_height="213dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/joystixmonospace"
+        android:gravity="center"
+        android:text="HOW TO ASK YOUR BOSS FOR A RAISE"
+        android:textColor="#000000"
+        android:textSize="42sp"
+        app:layout_constraintBottom_toTopOf="@+id/deskman"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.461" />
+
+    <ImageView
+        android:id="@+id/deskman"
+        android:layout_width="404dp"
+        android:layout_height="337dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.673"
+        app:srcCompat="@drawable/desk" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="326dp"
+        android:layout_height="85dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="40dp"
+        android:fontFamily="@font/joystixmonospace"
+        android:onClick="startGame"
+        android:text="START"
+        android:textColor="#000000"
+        android:textSize="40sp"
+        app:backgroundTint="#C66E2E"
+        app:iconPadding="8dp"
+        app:iconTint="#401616"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/deskman"
+        app:layout_constraintVertical_bias="1.0"
+        app:strokeColor="#B85D28 "
+        app:strokeWidth="5dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5FC7D5"
+    tools:context=".GameScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="3"
+            android:fontFamily="@font/joystixmonospace"
+            android:gravity="start"
+            android:text="Define"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="3"
+            android:fontFamily="@font/joystixmonospace"
+            android:gravity="start"
+            android:text="Define"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/option1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/joystixmonospace"
+            android:onClick="button1"
+            android:text="Define"
+            android:textColor="#000000"
+            android:textSize="27sp"
+            app:backgroundTint="#C66E2E"
+            app:strokeColor="#B85D28 "
+            app:strokeWidth="5dp" />
+
+        <Button
+            android:id="@+id/option2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/joystixmonospace"
+            android:onClick="button2"
+            android:text="Define"
+            android:textColor="#000000"
+            android:textSize="27sp"
+            app:backgroundTint="#C66E2E"
+            app:strokeColor="#B85D28 "
+            app:strokeWidth="5dp" />
+
+        <Button
+            android:id="@+id/option3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="40dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/joystixmonospace"
+            android:onClick="button3"
+            android:text="Define"
+            android:textColor="#000000"
+            android:textSize="27sp"
+            app:backgroundTint="#C66E2E"
+            app:strokeColor="#B85D28 "
+            app:strokeWidth="5dp" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

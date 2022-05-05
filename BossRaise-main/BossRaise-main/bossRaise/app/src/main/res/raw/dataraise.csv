@@ -1,0 +1,49 @@
+0,15,1,29,You sit at your desk with your legs up,You release a sigh of boredom. What to do?,Go for a walk,Go to the kitchen,Visit Mr X
+1,3,4,2,You wander into the kitchen,It's Susan! She's making coffee. You should talk to her,No way!,Here goes nothing,Talk to Trevor instead
+2,14,5,2,Trevor talks about his kids and family,This was a mistake. He's never going to stop now,Sorry bathroom,Make some coffee,-
+3,4,28,3,,Come on... Stop being such a wuss,Alright fine. Let's do this!,No. I can't do it...,-
+4,5,6,2,You approach Susan. She notices you and smiles briefly.,It's okay you can do this. Just play it cool,Make some coffee,Lean on the table and smile back,Talk to Trevor instead
+5,7,6,28,You stand beside Susan and switch the kettle on,Wait you don't even drink coffee what were you thinking!?,Act natural!,Tell a joke,Panic and make a rapid exit
+6,28,10,6,With a grimace she takes a step away,Nice one.,You're right. I suck,Hey shut up!,-
+7,8,8,8,,Sugar?,Sure,Nah,Pour it in baby!
+8,9,9,9,,Milk?,Yeah,Nope,Half a carton ought to do it
+9,25,9,9,,Susan smiles at you sweetly and leaves the room,Smooth moves!,-,-
+10,11,10,10,,Don't take it out on me. I'm just a voice in your head,Wait what's happening?,-,-
+11,12,12,12,,Let's play rock paper scissors. Shoot,Rock,Paper,Scissors
+12,13,12,12,,I play laser. I win,You can't do that!,-,-
+13,25,14,13,Okay I play peace sign and put an end to this war,By the way you should steal Susan's coffee. I have a feeling it will be useful,Grab her coffee and run,I think I need to sit down,-
+14,0,14,14,,You wander back to your desk,Continue,-,-
+15,17,16,14,You wander around the office block.,Miss Y is in her office. Looks like she's in a bad mood,Walk in for a chat,Burst through the door!,Turn back
+16,27,17,16,You kick the door down an-,Hold on. Are you sure this is a good idea?,Less thinking more smashing!,Fine..,-
+17,27,26,18,You walk into Miss Y's office and take a seat,You notice some suspicious looking photos on her desk,Look at the photos,Try to distract her,Ask her what's wrong
+18,19,14,18,,She is tired and stressed. It seems life at home has been very hard for her,I've got an idea,Give her some space,-
+19,27,26,20,She looks at you soppily with hopeful eyes,You blush. She's actually quite cute when she's like this,Give her a hug,Offer her a hot drink,Show her a funny video
+20,27,14,20,You laugh together,Looks like she feels a bit  better now,Ask about the photos,Say farewell,-
+21,27,21,21,,You don't have anything to use..,Uh oh...,-,-
+22,27,23,22,You see your opportunity and splash hot coffee all over her face ,She recoils as she clasps her face howling in pain. Now's your chance!,Grab the photos and run,Use something!,-
+23,24,23,23,You burst out of your chair and slam it over her head,She hits the ground. You did it! ,Pick up the photos,-,-
+24,14,24,24,You got Mr X's Explicit photos!,This will come in handy,Continue,-,-
+25,14,25,25,You got Coffee!,This will come in handy,Continue,-,-
+26,21,22,26,COFFEE,DECISION,-,-,-
+27,27,27,27,Miss Y screams with fury. Before you can react you are upside down and your face slams into her desk,You black out,Play again,-,-
+28,28,28,28,With your confidence crushed you have no chance asking for a raise,Maybe another day,Play again,-,-
+29,30,30,30,You stifle your nerves and make your way to Mr X's office,You approach his door,Knock,-,-
+30,31,32,30,PHOTOS,DECISION,-,-,-
+31,0,31,31,Mr X doesn't look up from his desk. He is clearly busy,Maybe try again later,Return to your desk,-,-
+32,33,32,32,He looks up affirmatively ushering you to enter,As you walk in he asks you to be seated,Present your case,-,-
+33,34,34,34,,Why should you get a raise?,You have been involved in a major success,You have been with the company for many years,-
+34,35,36,34,,Do you get on with the professor?,Yes,No,-
+35,40,36,35,,Did you solve his t60 issue?,Yes,No,-
+36,38,37,36,,What was the lunch menu today?,Eggs,Fish,-
+37,39,40,37,,Did he swallow a bone?,Yes,No,-
+38,39,40,38,,Were they off?,Yes,No,-
+39,46,46,39,Finally you ask for a raise,Are you given reasons for hoping?,Yes,No,-
+40,41,42,40,,Does one of his daughters have measles?,Yes,No,-
+41,47,41,41,,Is his face spotty?,Sigh.. Yes,-,-
+42,43,41,42,,Do both his daughters not have measles?,Yes,No,-
+43,44,41,43,,And is the third okay? ,Yes,No,-
+44,46,45,44,It would seem all odds are in your favour,It's high time we took avantage of them! What are you waiting for?,Ask for a raise,One more thing,-
+45,48,45,45,You stand up and slam Mr X's explicit photos onto the desk violently,You know what to do,Blackmail,-,-
+46,46,46,46,You wait six months and hope for a promotion but nothing comes through. He's probably forgotten by now.,Maybe you'll try again next year,Play again,-,-
+47,47,47,47,EMERGENCY! You make a rapid exit,You put Mr X goes in quarantine for 40 days,Play again,-,-
+48,48,48,48,It seems that blackmail was just enough to push Mr X to give you that you that raise. Who would've thought?,Congratulations! You won!,Play again,-,-
