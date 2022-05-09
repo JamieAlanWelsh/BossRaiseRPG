@@ -9,12 +9,12 @@ Boss for a Raise”.
 
 ## Graphical User Interface
 
-![ClassDiagram](Images/bossRaiseGUI.PNG)
+![ClassDiagram](images/bossRaiseGUI.PNG)
 
 ## Custom Decision Map
 
-![ClassDiagram](Images/DecisionMapMK2.PNG)
+![ClassDiagram](images/DecisionMapMK2.PNG)
 
 ## Class Diagram
 
-![ClassDiagram](Images/classDiagram.PNG)
+![ClassDiagram](images/classDiagram.PNG)
