@@ -18,3 +18,7 @@ Boss for a Raise”.
 ## Class Diagram
 
 ![ClassDiagram](images/classDiagram.png)
+
+## Download
+
+Download repository as a ZIP file, export to Android Studio.
