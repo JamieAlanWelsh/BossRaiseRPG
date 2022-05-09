@@ -1,2 +1,20 @@
-# BossRaiseRPG
-An interactive android mobile application game based on text RPG's. The aim of the game is to convince your boss to give you a raise.
+## Project Aims
+
+The project aim is to design and implement an interactive mobile anroid application based on the George Perec novel “The Art of Asking Your
+Boss for a Raise”.
+
+## Video Demonstration
+
+<https://www.youtube.com/watch?v=-2W3Jv2IH7I>
+
+## Graphical User Interface
+
+![ClassDiagram](Images/bossRaiseGUI.PNG)
+
+## Custom Decision Map
+
+![ClassDiagram](Images/DecisionMapMK2.PNG)
+
+## Class Diagram
+
+![ClassDiagram](Images/classDiagram.PNG)
