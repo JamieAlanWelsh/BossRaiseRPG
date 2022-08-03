@@ -1,6 +1,6 @@
 ## Project Aims
 
-The project aim is to design and implement an interactive mobile anroid application based on the George Perec novel “The Art of Asking Your
+The project aim is to design and implement an interactive mobile android application based on the George Perec novel “The Art of Asking Your
 Boss for a Raise”.
 
 ## Video Demonstration
@@ -19,6 +19,6 @@ Boss for a Raise”.
 
 ![ClassDiagram](images/classDiagram.png)
 
-## Download
+## Download and Play
 
 Download repository as a ZIP file, export to Android Studio.
